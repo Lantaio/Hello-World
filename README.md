@@ -1,2 +1,2 @@
 # Hello-World
-The first repository.
+This is a Hello World sample project writen by Java.
