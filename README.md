@@ -1,2 +1,2 @@
-# Hello-World
-This is a Hello World sample project writen by Java.
+# Hello World
+This is a Hello World sample project written in Java by Lantaio Joy.
